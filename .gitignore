@@ -1,0 +1,7 @@
+**/test-framework
+**/.exercism
+makefile
+README.md
+HELP.md
+tests.out
+test_*.*
